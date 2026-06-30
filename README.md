@@ -3,7 +3,7 @@ Official SVG mode for Text Forge code editor
 
 ---
 
-SVG Mode is a lightweight and functional mode for Text Forge code editor. It's a part of official Text Forge modes.
+SVG Mode is a lightweight and functional mode for Text Forge code editor to work with Scable Vector Graphics. It's a part of official Text Forge modes.
 
 ## Mode Features
 - Updated to [Text Forge Mode API V2.1](https://github.com/text-forge/text-forge/pull/115)
